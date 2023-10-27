@@ -3,9 +3,9 @@ package estruturaCondicional.exercises;
 import java.util.Scanner;
 
 /*
-Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
+Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar
 */
-public class exercise01 {
+public class exercise02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num;
@@ -13,10 +13,10 @@ public class exercise01 {
         System.out.print("Insira um número inteiro: ");
         num = sc.nextInt();
 
-        if(num < 0){
-            System.out.println("NEGATIVO");
+        if(num % 2 == 0){
+            System.out.println("PAR");
         } else {
-            System.out.println("NÃO NEGATIVO");
+            System.out.println("ÍMPAR");
         }
         sc.close();
     }
