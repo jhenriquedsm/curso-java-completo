@@ -1,4 +1,4 @@
-package memoryArrayListas;
+package memoryArrayListas.exercises.exercise01.application;
 
 import java.util.Locale;
 import java.util.Scanner;
