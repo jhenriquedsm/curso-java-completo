@@ -43,7 +43,7 @@ public class pensionato {
 
                 if (room < 0 || room > 10){
                     System.out.println("Erro. Informe um valor entre 0 e 9!");
-                } else if (room < 0 || room > rent.length || rent[room - 1] != null){
+                } else if (rent[room - 1] != null){
                     System.out.println("Quarto ocupado!");
                 }
             } while (room < 0 || room > rent.length || rent[room - 1] != null);
