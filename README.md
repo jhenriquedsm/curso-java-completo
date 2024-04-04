@@ -12,7 +12,7 @@
 - [x] Seção 7: Outros tópicos básicos sobre Java
 - [x] Seção 8: Introdução à Programação Orientada a Objetos
 - [x] Seção 9: Construtores, palavra this, sobrecarga, encapsulamento
-- [ ] Seção 10: Comportamento de memória, arrays, listas
+- [x] Seção 10: Comportamento de memória, arrays, listas
 - [ ] Seção 11: Tópicos especiais em Java: data-hora
 - [ ] Seção 12: Bônus - nivelamento sobre Git e Github
 - [ ] Seção 13: Enumerações, composição
