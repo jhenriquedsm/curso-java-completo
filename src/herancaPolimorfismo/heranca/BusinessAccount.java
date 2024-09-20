@@ -1,4 +1,4 @@
-package herencaPolimorfismo.heranca;
+package herancaPolimorfismo.heranca;
 
 public class BusinessAccount extends Account{
     private Double loanLimit;

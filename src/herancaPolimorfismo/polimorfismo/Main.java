@@ -1,7 +1,7 @@
-package herencaPolimorfismo.polimorfismo;
+package herancaPolimorfismo.polimorfismo;
 
-import herencaPolimorfismo.heranca.Account;
-import herencaPolimorfismo.heranca.SavingsAccount;
+import herancaPolimorfismo.heranca.Account;
+import herancaPolimorfismo.heranca.SavingsAccount;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package herencaPolimorfismo.heranca;
+package herancaPolimorfismo.heranca;
 
 public final class SavingsAccount extends Account{
     private Double interestRate;
