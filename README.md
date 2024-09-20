@@ -16,7 +16,7 @@
 - [x] Seção 11: Tópicos especiais em Java: data-hora
 - [x] Seção 12: Bônus - nivelamento sobre Git e Github
 - [x] Seção 13: Enumerações, composição
-- [ ] Seção 14: Herança e polimorfismo
+- [x] Seção 14: Herança e polimorfismo
 - [ ] Seção 15: Tratamento de exceções
 - [ ] Seção 16: Projeto - Sistema jogo de xadrez
 - [ ] Seção 17: Trabalhando com arquivos
