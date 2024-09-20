@@ -37,7 +37,7 @@ public class Account {
         balance -= amount + 5.0;
     }
 
-    public void deposit (double amount){
+    public final void deposit (double amount){
         balance += amount;
     }
 }
