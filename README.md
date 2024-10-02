@@ -18,7 +18,7 @@
 - [x] Seção 13: Enumerações, composição
 - [x] Seção 14: Herança e polimorfismo
 - [x] Seção 15: Tratamento de exceções
-- [ ] Seção 16: Trabalhando com arquivos
+- [x] Seção 16: Trabalhando com arquivos
 - [ ] Seção 17: Interfaces
 - [ ] Seção 18: Generics, Set, Map
 - [ ] Seção 19: Programação funcional e expressões lambda
