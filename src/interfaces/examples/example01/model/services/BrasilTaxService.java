@@ -1,4 +1,4 @@
-package interfaces.model.services;
+package interfaces.examples.example01.model.services;
 
 public class BrasilTaxService implements TaxService {
     public double tax (double amount){

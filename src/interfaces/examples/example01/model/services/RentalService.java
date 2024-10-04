@@ -1,7 +1,7 @@
-package interfaces.model.services;
+package interfaces.examples.example01.model.services;
 
-import interfaces.model.entities.CarRental;
-import interfaces.model.entities.Invoice;
+import interfaces.examples.example01.model.entities.CarRental;
+import interfaces.examples.example01.model.entities.Invoice;
 
 import java.time.Duration;
 

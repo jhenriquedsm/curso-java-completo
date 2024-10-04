@@ -1,9 +1,9 @@
-package interfaces.application;
+package interfaces.examples.example01.application;
 
-import interfaces.model.entities.CarRental;
-import interfaces.model.entities.Vehicle;
-import interfaces.model.services.BrasilTaxService;
-import interfaces.model.services.RentalService;
+import interfaces.examples.example01.model.entities.CarRental;
+import interfaces.examples.example01.model.entities.Vehicle;
+import interfaces.examples.example01.model.services.BrasilTaxService;
+import interfaces.examples.example01.model.services.RentalService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
