@@ -1,6 +1,7 @@
 package interfaces.examples.example05.application;
 
 import interfaces.examples.example05.services.BrazilianInterestService;
+import interfaces.examples.example05.services.InterestService;
 import interfaces.examples.example05.services.USAInterestService;
 
 import java.util.Locale;
@@ -16,7 +17,7 @@ public class Program {
         System.out.print("Months: ");
         int months = sc.nextInt();
 
-        USAInterestService is = new USAInterestService(1.0);
+        InterestService is = new USAInterestService(1.0);
         double payment = is.payment(amount, months);
 
         System.out.println("Payment after " + months + " months:");
