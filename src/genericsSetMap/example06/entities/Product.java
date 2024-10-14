@@ -2,7 +2,7 @@ package genericsSetMap.example06.entities;
 
 import java.util.Objects;
 
-public class Product {
+public class Product implements Comparable<Product>{
     private String name;
     private Double price;
 
@@ -36,5 +36,15 @@ public class Product {
     @Override
     public int hashCode() {
         return Objects.hash(name, price);
+    }
+
+    @Override
+    public String toString() {
+        return name + ", " + price;
+    }
+
+    @Override
+    public int compareTo(Product o) {
+        return name.toUpperCase().compareTo(o.getName().toUpperCase());
     }
 }
