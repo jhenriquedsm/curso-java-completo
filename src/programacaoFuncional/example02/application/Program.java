@@ -17,7 +17,8 @@ public class Program {
         list.add(new Product("HD Case", 80.90));
 
         //list.removeIf(new ProductPredicate());
-        list.removeIf(Product::staticProductPredicate); // reference method
+        //list.removeIf(Product::staticProductPredicate); // reference method
+        list.removeIf(Product::noStaticProductPredicate);
 
         for (Product p : list){
             System.out.println(p);
