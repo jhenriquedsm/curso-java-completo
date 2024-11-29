@@ -20,10 +20,10 @@ public class Program {
         //list.removeIf(new ProductPredicate());
         //list.removeIf(Product::staticProductPredicate); // reference method
         // list.removeIf(Product::noStaticProductPredicate);
+        // Predicate<Product> predicate = p -> p.getPrice() >= min; // lambda expression declared
 
         double min = 100.0;
-        Predicate<Product> predicate = p -> p.getPrice() >= min; // lambda expression
-        list.removeIf(predicate);
+        list.removeIf(p -> p.getPrice() >= min); // lambda expression inline
 
         for (Product p : list){
             System.out.println(p);
