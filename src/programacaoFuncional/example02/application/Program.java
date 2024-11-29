@@ -5,6 +5,7 @@ import programacaoFuncional.example02.util.ProductPredicate;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Predicate;
 
 public class Program {
     public static void main(String[] args) {
@@ -18,7 +19,11 @@ public class Program {
 
         //list.removeIf(new ProductPredicate());
         //list.removeIf(Product::staticProductPredicate); // reference method
-        list.removeIf(Product::noStaticProductPredicate);
+        // list.removeIf(Product::noStaticProductPredicate);
+
+        double min = 100.0;
+        Predicate<Product> predicate = p -> p.getPrice() >= min; // lambda expression
+        list.removeIf(predicate);
 
         for (Product p : list){
             System.out.println(p);
