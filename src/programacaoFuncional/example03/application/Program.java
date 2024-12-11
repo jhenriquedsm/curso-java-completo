@@ -18,8 +18,7 @@ public class Program {
         list.add(new Product("Tablet", 350.00));
         list.add(new Product("HD Case", 80.90));
 
-        Consumer<Product> consumer = p -> p.setPrice(p.getPrice() * 1.1);
-        list.forEach(consumer);
+        list.forEach(p -> p.setPrice(p.getPrice() * 1.1));
 
         //list.forEach(Product::nonStaticPriceUpdate);
 
