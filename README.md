@@ -21,7 +21,7 @@
 - [x] Seção 16: Trabalhando com arquivos
 - [x] Seção 17: Interfaces
 - [x] Seção 18: Generics, Set, Map
-- [ ] Seção 19: Programação funcional e expressões lambda
+- [x] Seção 19: Programação funcional e expressões lambda
 - [ ] Seção 20: Acesso a banco de dados com JDBC
 - [ ] Seção 21: Java EE - Mapeamento objeto-relacional com JPA / Hibernate
 - [ ] Seção 22: Projeto - Web services com Spring Boot e JPA / Hibernate
