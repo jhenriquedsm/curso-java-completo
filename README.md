@@ -22,7 +22,9 @@
 - [x] Seção 17: Interfaces
 - [x] Seção 18: Generics, Set, Map
 - [x] Seção 19: Programação funcional e expressões lambda
-- [ ] Seção 20: Acesso a banco de dados com JDBC
+- [x] Seção 20: Acesso a banco de dados com JDBC
+    - [Projeto JDBC 1](https://github.com/jhenriquedsm/jdbc1)
+    - [Projeto DAO JDBC](https://github.com/jhenriquedsm/dao-jdbc)
 - [ ] Seção 21: Java EE - Mapeamento objeto-relacional com JPA / Hibernate
 - [ ] Seção 22: Projeto - Web services com Spring Boot e JPA / Hibernate
 - [ ] Seção 23: Projeto - Sistema jogo de xadrez
