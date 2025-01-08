@@ -27,7 +27,8 @@
     - [Projeto DAO JDBC](https://github.com/jhenriquedsm/dao-jdbc)
 - [x] Seção 21: Java EE - Mapeamento objeto-relacional com JPA / Hibernate
     - [Projeto Aula JPA](https://github.com/jhenriquedsm/aulajpa)
-- [ ] Seção 22: Projeto - Web services com Spring Boot e JPA / Hibernate
+- [x] Seção 22: Projeto - Web services com Spring Boot e JPA / Hibernate
+    - [Projeto Webservice](https://github.com/jhenriquedsm/webservice)
 - [ ] Seção 23: Projeto - Sistema jogo de xadrez
 - [ ] Seção 24: Projeto - API Restful com Spring Boot e banco MongoDB (web services + NoSQL)
 - [ ] Seção 25: Interface gráfica com JavaFx
