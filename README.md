@@ -31,5 +31,6 @@
     - [Projeto Webservice](https://github.com/jhenriquedsm/webservice)
 - [x] Seção 23: Projeto - Sistema jogo de xadrez
     - [Projeto Chess](https://github.com/jhenriquedsm/chess)
-- [ ] Seção 24: Projeto - API Restful com Spring Boot e banco MongoDB (web services + NoSQL)
+- [x] Seção 24: Projeto - API Restful com Spring Boot e banco MongoDB (web services + NoSQL)
+    - [Projeto Webservice - MongoDB](https://github.com/jhenriquedsm/webservice_mongodb)
 - [ ] Seção 25: Interface gráfica com JavaFx
