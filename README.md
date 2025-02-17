@@ -35,3 +35,7 @@
     - [Projeto Webservice - MongoDB](https://github.com/jhenriquedsm/webservice_mongodb)
 - [x] Seção 25: Interface gráfica com JavaFx
     - [Projeto Interface gráfica com JavaFX](https://github.com/jhenriquedsm/javafx-jdbc)   
+
+## Certificado
+
+![Java COMPLETO - Programação Orientada a Objetos + Projetos.jpg](images%2FJava%20COMPLETO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20%2B%20Projetos.jpg))
